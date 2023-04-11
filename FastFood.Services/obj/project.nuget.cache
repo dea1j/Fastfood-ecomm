@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRq6VfOrZQwEZluUsPKRDVNc2L0j6/7dgsyooprBrv1Xp+8gBW4bEHdTIzIog4lmZiZPbHqZ5fDlvCFOQYgHYg==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Documents/dotNet/FastFood/FastFood.Services/FastFood.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
