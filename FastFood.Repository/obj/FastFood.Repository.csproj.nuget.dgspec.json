@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Documents/dotNet/FastFood/FastFood.Repository/FastFood.Repository.csproj": {}
+    "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Repository\\FastFood.Repository.csproj": {}
   },
   "projects": {
-    "/Users/mac/Documents/dotNet/FastFood/FastFood.Models/FastFood.Models.csproj": {
+    "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Models\\FastFood.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Documents/dotNet/FastFood/FastFood.Models/FastFood.Models.csproj",
+        "projectUniqueName": "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Models\\FastFood.Models.csproj",
         "projectName": "FastFood.Models",
-        "projectPath": "/Users/mac/Documents/dotNet/FastFood/FastFood.Models/FastFood.Models.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Documents/dotNet/FastFood/FastFood.Models/obj/",
+        "projectPath": "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Models\\FastFood.Models.csproj",
+        "packagesPath": "C:\\Users\\MINDWORKS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\MINDWORKS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,49 +56,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mac/Documents/dotNet/FastFood/FastFood.Repository/FastFood.Repository.csproj": {
+    "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Repository\\FastFood.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Documents/dotNet/FastFood/FastFood.Repository/FastFood.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Repository\\FastFood.Repository.csproj",
         "projectName": "FastFood.Repository",
-        "projectPath": "/Users/mac/Documents/dotNet/FastFood/FastFood.Repository/FastFood.Repository.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Documents/dotNet/FastFood/FastFood.Repository/obj/",
+        "projectPath": "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Repository\\FastFood.Repository.csproj",
+        "packagesPath": "C:\\Users\\MINDWORKS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\MINDWORKS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/mac/Documents/dotNet/FastFood/FastFood.Models/FastFood.Models.csproj": {
-                "projectPath": "/Users/mac/Documents/dotNet/FastFood/FastFood.Models/FastFood.Models.csproj"
+              "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Models\\FastFood.Models.csproj": {
+                "projectPath": "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Models\\FastFood.Models.csproj"
               }
             }
           }
@@ -127,22 +121,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NRq6VfOrZQwEZluUsPKRDVNc2L0j6/7dgsyooprBrv1Xp+8gBW4bEHdTIzIog4lmZiZPbHqZ5fDlvCFOQYgHYg==",
+  "dgSpecHash": "hgRJayQeWtDc18qH485K10Dja2j+4S9XqWuB9Ea5dNo8ENrcI8aFjPe/LKIY//6M1Y+CqwkefSktDrTb7r0M3Q==",
   "success": true,
-  "projectFilePath": "/Users/mac/Documents/dotNet/FastFood/FastFood.Services/FastFood.Services.csproj",
-  "expectedPackageFiles": [
-    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/mac/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\MINDWORKS\\Documents\\Dayo\\Dotnet Projects\\FastFood\\Fastfood-ecomm\\FastFood.Services\\FastFood.Services.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
